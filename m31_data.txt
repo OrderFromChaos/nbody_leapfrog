@@ -1,0 +1,6 @@
+# From Arias 2015. Assume M31 in z-direction
+# Obj Mass(Msun) x y z(kpc) Vx Vy Vz (km/s) 
+M31    1.037e12  0   0 779 0 0 -301 # Table 1 (mass is just halo, might need to add bulge & disk later)
+NGC147 5.6e8    75 -61 693 0 0 -193.1
+NGC185 7.6e8 	72  -2 602 0 0 -203.9
+CassII 1.0e7 	73 -70 680 0 0 -139
